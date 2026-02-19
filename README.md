@@ -15,17 +15,17 @@ Average order value varies a lot between customers.
 Low-performing items, and keep only the best-selling products.
 High-volume items keep maximum stock.
 Certain categories and products dominate sales.
-#### Sales & Order Trends
+#### 3.Sales & Order Trends
 Clear peak sales days and monthly patterns.
 If sales drop in certain months, those months 
 need better marketing or an offer.
-#### Supplier Contributions
+#### 4.Supplier Contributions
 A few suppliers contribute more products and revenue.
 Pricing and performance vary widely across suppliers
-#### Employee Performance
+#### 5.Employee Performance
 A few employees process more sales. Order handling is uneven.
 Performance Variability suggests training needs.
-#### Order Details deep drive
+#### 6.Order Details deep drive
  Strong linear link between quantity and revenue.
 Price variations indicate discounts or 
 updated pricing.

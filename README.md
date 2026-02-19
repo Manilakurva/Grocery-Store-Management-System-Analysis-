@@ -1,4 +1,4 @@
-# Grocery-Store-Management-System-Analysis-
+# Grocery-Store-Management-System-Analysis- SQL
 Grocery Store Management Analysis
 ## Objectives of the Project
 To design and implement a relational database for a grocery store.
@@ -11,13 +11,13 @@ A small number of customers contribute
 a large share of total revenue.
 Some customers order frequently but spend less per order.
 Average order value varies a lot between customers.
-#### 2.products
-Low performing items and keep only best selling products.
+#### 2. products
+Low-performing items, and keep only the best-selling products.
 High-volume items keep maximum stock.
-Certain categories and products dominates Sales.
+Certain categories and products dominate sales.
 #### Sales & Order Trends
 Clear peak sales days and monthly patterns.
-If sales drop in certain months , those months 
+If sales drop in certain months, those months 
 need better marketing or an offer.
 #### Supplier Contributions
 A few suppliers contribute more products and revenue.
